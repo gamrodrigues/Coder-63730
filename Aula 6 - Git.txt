@@ -1,4 +1,4 @@
-Instalar o git no visual studio
+Instalar o git no visual studio pela extensão github codespaces
 
 Ir na pessoinha no cantinho da tela e logar com o GIT
 
@@ -7,3 +7,4 @@ git config --global user.email y*********@gmail.com
 git config --global user.name Y*********
 
 https://code.visualstudio.com/docs/sourcecontrol/overview
+
