@@ -1,0 +1,359 @@
+url,family,type,fat_content,calcium_content,texture,rind,color,flavor,aroma,vegetarian,vegan,synonyms,alt_spellings,producers
+https://www.cheese.com/maredsous/,,soft,,,,,,,,False,False,,,
+https://www.cheese.com/la-bonaparte/,Brie,"soft, soft-ripened",28%,,"creamy, soft, soft-ripened, supple",bloomy,cream,"creamy, mild, milky","fresh, mild",,,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/pecorino-boccondilatte/,Pecorino,"semi-hard, artisan",,,crumbly,natural,white,"subtle, sweet",pronounced,,,,,Romaniae Terrae
+https://www.cheese.com/brusselae-kaas-fromage-de-bruxelles/,,"soft, artisan",,,smooth,washed,pale yellow,"salty, sharp",strong,False,False,,,
+https://www.cheese.com/alpe-di-frabosa/,,semi-soft,,,,,,bitter,"milky, mushroom",False,False,,,
+https://www.cheese.com/chevre-en-marinade/,,"semi-soft, artisan",,,"creamy, crumbly, firm, oily",rindless,white,"garlicky, herbaceous, spicy","aromatic, pungent",True,False,,,Haystack Mountain Creamery
+https://www.cheese.com/perl-wen/,,semi-soft,,,"creamy, smooth, soft",,white,citrusy,,,,,,
+https://www.cheese.com/auld-lochnagar/,,hard,,,"compact, crumbly",natural,orange,"grassy, mellow, subtle, tangy",mild,,,,,The Cambus O’May Cheese Company
+https://www.cheese.com/cornish-blue/,Blue,"semi-soft, artisan",,,"buttery, dense",,,"creamy, mild, sweet","buttery, mild, sweet",True,False,,,Cornish Cheese Company Ltd
+https://www.cheese.com/brie-au-poivre-brie-with-pepper/,Brie,"soft, soft-ripened",,,creamy,bloomy,,"creamy, spicy",spicy,,,,,
+https://www.cheese.com/bad-axe/,,"semi-hard, artisan",,,"creamy, firm, smooth",waxed,white,"creamy, smooth, tart",fresh,True,False,,,Hidden Springs Company
+https://www.cheese.com/chelsea-blue/,Blue,artisan,,,crumbly,,,"nutty, salty, sweet","nutty, sweet",True,False,,,BoatShed Cheese
+https://www.cheese.com/pleasant-ridge-reserve/,,"semi-hard, artisan",,,"crystalline, firm, smooth",washed,golden yellow,"creamy, full-flavored, grassy, nutty",,False,False,Uplands Pleasant Ridge,,Uplands Cheese Company
+https://www.cheese.com/alex-james-co-no-3-valley-brie/,,"soft, semi-soft",,,"buttery, creamy, semi firm, smooth, soft",,pale white,,,,,,,
+https://www.cheese.com/airedale/,,"semi-soft, artisan",,,smooth,waxed,pale yellow,"full-flavored, milky, salty, tangy","grassy, strong",True,False,,Aged Airedale,Whitestone Cheese
+https://www.cheese.com/stella-smoked-blue/,Blue,"semi-soft, artisan",,,"creamy, crumbly",natural,white,"creamy, subtle","pleasant, smokey",True,False,,,Stella
+https://www.cheese.com/sartori-reserve-raspberry-bellavitano/,Cheddar,"hard, artisan",,,creamy,natural,pale yellow,"buttery, creamy, fruity, nutty, sweet","fruity, nutty, rich",True,False,,,Sartori
+https://www.cheese.com/cote-hill-snowdrop/,,"soft, artisan, soft-ripened",,,"creamy, smooth",,white,savory,,,,,,Cote Hill Farm
+https://www.cheese.com/st-pat/,,"semi-soft, artisan",,,"creamy, soft",bloomy,pale yellow,"full-flavored, mellow","rich, smokey",True,False,,,Cowgirl Creamery
+https://www.cheese.com/brimstone/,Gouda,"semi-hard, artisan",,,crumbly,rindless,pale yellow,"smooth, spicy",spicy,True,False,,,Heartland Creamery
+https://www.cheese.com/bruder-basil/,,"semi-soft, artisan",45%,,"creamy, open, smooth",washed,pale yellow,"mild, savory, smokey","rich, smokey",False,False,,,Bergader Private Cheese Dairy
+https://www.cheese.com/la-peral/,Blue,"semi-soft, blue-veined",,,"creamy, firm, grainy",,pale yellow,"spicy, sweet","buttery, rich",False,False,La Peral Blue,,
+https://www.cheese.com/lemon-myrtle-chevre/,,"fresh firm, artisan",45%,,"creamy, firm, smooth",rindless,white,"acidic, herbaceous","fresh, herbal",True,False,,,Woodside Cheese Wrights
+https://www.cheese.com/shtayburne-farm-monterey-jack/,Monterey Jack,"semi-hard, artisan",,,"compact, creamy, soft, supple",natural,pale yellow,"creamy, garlicky, herbaceous, smooth, spicy, sweet, tangy",,,,,,Shtayburne Farm
+https://www.cheese.com/cream-havarti/,Havarti,"semi-soft, processed",45%,,smooth,rindless,pale yellow,"buttery, creamy, sweet",sweet,,,"Havarathi, Flødeis Havarti, Smoked Havarti",Flodeis Havarti,
+https://www.cheese.com/piora/,,hard,,,,,,,"aromatic, rich",False,False,,,
+https://www.cheese.com/blythedale-camembert/,Camembert,"soft, artisan",,,"creamy, dense",natural,ivory,"earthy, mushroomy",mild,True,False,Camembert Vermont,,Blythedale Farm Cheeses
+https://www.cheese.com/stella-asiago/,,"semi-hard, artisan",,,"buttery, creamy, crumbly",natural,cream,"nutty, sharp, smooth, sweet","fresh, mild, rich",True,False,,,Stella
+https://www.cheese.com/pecorino-ortica/,Pecorino,"semi-soft, artisan",,,"compact, smooth, soft",leaf wrapped,straw,"herbaceous, piquant, savory, sharp","aromatic, strong",,,Pecorino Ortica a latte Crudo,,Romaniae Terrae
+https://www.cheese.com/serat/,,hard,,,,,,,,False,False,,,
+https://www.cheese.com/bleu-dauvergne/,Blue,"semi-soft, artisan",,,"creamy, smooth",,ivory,"buttery, creamy, pungent",strong,,,Bleu d'Auvergne AOC,,
+https://www.cheese.com/baluchon/,,semi-soft,28%,,creamy,washed,ivory,"acidic, creamy, earthy, salty","earthy, mild",False,False,Le Baluchon,,Fromageries Jonathan
+https://www.cheese.com/lecir-de-laubrac/,,"soft, artisan",,,smooth,natural,white,sweet,pleasant,False,False,,,
+https://www.cheese.com/chapmans-pasture/,Parmesan,semi-hard,,,grainy,washed,ivory,"sharp, sweet","strong, sweet",False,False,,,Parish Hill Creamery
+https://www.cheese.com/barbers-1833/,Cheddar,hard,,,creamy,,,"sweet, tangy",,True,False,,,AJ & RE Barber Ltd
+https://www.cheese.com/millstone/,,"hard, artisan",,,"crumbly, dry",natural,pale yellow,,mild,True,False,,,Wootton Organic Dairy
+https://www.cheese.com/le-duc-vacherin/,,"soft, soft-ripened",,,"smooth, soft",washed,ivory,"buttery, creamy, lemony, mild","rich, woody",,,,,Fromagerie Jean Perrin
+https://www.cheese.com/penbryn/,Gouda,hard,45%,,,,,"buttery, fruity, grassy, nutty, sweet",,True,False,,,
+https://www.cheese.com/montasio-vecchio/,,"semi-firm, artisan",,,creamy,natural,,sharp,strong,False,False,,Montasio Stagionato,
+https://www.cheese.com/lappi/,Swiss Cheese,semi-soft,,,"creamy, firm, open, smooth",rindless,yellow,"mild, sweet",,False,False,,,
+https://www.cheese.com/crucolo/,,"semi-hard, artisan",,,buttery,,ivory,"savory, sweet","mild, rich",,,,,Rifugio Crucolo
+https://www.cheese.com/pecorino-pera/,Pecorino,"semi-hard, artisan",,,"crumbly, smooth",natural,ivory,"fruity, smooth, subtle, sweet","fruity, milky, sweet",,,,,Romaniae Terrae
+https://www.cheese.com/monte-enebro/,,semi-soft,,,smooth,,,"creamy, lemony","goaty, strong",False,False,"pata de mulo, mule’s-hoof cheese",,
+https://www.cheese.com/caws-penhelyg-abaty/,,soft,,,gooey,,white,,,,,,,
+https://www.cheese.com/cornish-smuggler/,Cheddar,"semi-soft, artisan",,,creamy,mold ripened,ivory,creamy,rich,True,False,,,Whalesborough Farm Foods
+https://www.cheese.com/pecorino-erica/,Pecorino,"semi-soft, artisan",,,"compact, smooth",natural,white,"milky, subtle, sweet","aromatic, floral, strong",,,,,Romaniae Terrae
+https://www.cheese.com/consider-bardwell-farm-manchester/,,"semi-hard, artisan",,,"firm, open",natural,ivory,"nutty, tangy, woody","lactic, mushroom, woody",True,False,,,Consider Bardwell Farm
+https://www.cheese.com/bassigny-au-porto/,,semi-soft,45%,,,washed,yellow,"acidic, buttery",aromatic,False,False,Langres,,
+https://www.cheese.com/carr-valley-glacier-wildfire-blue/,Blue,"semi-soft, artisan, blue-veined",,,"creamy, crumbly, soft",rindless,ivory,creamy,clean,,,,,Carr Valley Cheese Company
+https://www.cheese.com/pecorino-papavero/,Pecorino,"hard, artisan",,,"crumbly, flaky",natural,straw,"floral, herbaceous, smooth","aromatic, floral, herbal",,,,,Romaniae Terrae
+https://www.cheese.com/petit-pardou/,,semi-hard,50%,,,natural,,,aromatic,False,False,,,
+https://www.cheese.com/cotherstone/,,"semi-hard, artisan",45%,,"crumbly, open",waxed,pale yellow,"acidic, citrusy, tangy",fresh,,,,,
+https://www.cheese.com/mastorazio/,,"hard, artisan",,,"compact, dense",natural,pale yellow,"herbaceous, nutty, sharp, spicy","herbal, milky",False,False,,,Casa Madaio
+https://www.cheese.com/stella-goat/,,"semi-hard, artisan",,,crumbly,natural,cream,tangy,"mild, pleasant",True,False,,,Stella
+https://www.cheese.com/vegan-brick-lane-bree-cheese/,,soft,,,"buttery, creamy, gooey, soft",mold ripened,cream,"buttery, mild, mushroomy","buttery, mild, mushroom",True,True,,,La Fauxmagerie
+https://www.cheese.com/cherni-vit/,,"soft, brined",,,soft,mold ripened,green,"nutty, sharp",,,,,,
+https://www.cheese.com/truffello/,,"soft, artisan, soft-ripened",12%,,"creamy, soft",washed,white,"buttery, creamy, earthy","earthy, fruity",,,Truffello,,MouCo Cheese Company
+https://www.cheese.com/seators-orkney/,,"hard, artisan",,,crumbly,,cream,acidic,lactic,,,,,Grimbister Farm
+https://www.cheese.com/stella-reduced-fat-blue/,Blue,"semi-soft, artisan",,,crumbly,natural,white,full-flavored,pleasant,True,False,,,Stella
+https://www.cheese.com/sartori-reserve-espresso-bellavitano/,,"semi-firm, artisan",,,firm,natural,pale yellow,"smokey , sweet","smokey, sweet",,,,,Sartori
+https://www.cheese.com/camembert-de-portneuf/,Camembert,"soft, soft-ripened",,,"creamy, soft-ripened, supple",bloomy,pale yellow,"buttery, creamy",aromatic,,,,,Alexis de Portneuf
+https://www.cheese.com/amul-emmental/,Swiss Cheese,semi-hard,46%,488 mg/100g,"firm, open",artificial,yellow,sweet,nutty,True,False,,,Gujarat Cooperative Milk Marketing Federation (Amul)
+https://www.cheese.com/barrys-bay-cheddar/,Cheddar,"hard, artisan",,,creamy,cloth wrapped,,,,False,False,,,Barry's Bay
+https://www.cheese.com/la-tur/,Brie,"soft, artisan, soft-ripened",,,"creamy, fluffy, soft-ripened",mold ripened,straw,"acidic, buttery, creamy, grassy, mushroomy","earthy, lactic, yeasty",False,False,,,Caseificio dell'Alta Langa
+https://www.cheese.com/capricorn-somerset-goats-cheese/,,"soft, artisan",,,"creamy, crumbly, firm, smooth",bloomy,white,nutty,,True,False,,,Lactalis McLelland Ltd
+https://www.cheese.com/bath-soft-cheese-truffled/,Brie,soft,,,"buttery, soft-ripened",,white,,,,,,,The Bath Soft Cheese Co.
+https://www.cheese.com/manchego/,,hard,,,"compact, firm",,pale yellow,"buttery, nutty",,,,Queso Manchego,,
+https://www.cheese.com/sharpham-elmhirst/,,"soft, artisan, soft-ripened",,,"creamy, smooth, soft, soft-ripened, spreadable",bloomy,white,"creamy, full-flavored, milky, smooth","fresh, mild, milky, rich",True,False,,,Sharpham Wine & Cheese
+https://www.cheese.com/caciobarricato/,Pasta filata,semi-soft,,,"elastic, soft, stringy, supple",natural,ivory,"pronounced, sharp, tangy","clean, mild",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/lajta/,,soft,50%,,"creamy, open",washed,yellow,piquant,"aromatic, stinky, strong",False,False,,,
+https://www.cheese.com/macconais/,Blue,"soft, artisan, soft-ripened",,,"creamy, firm, smooth",bloomy,cream,"salty, tangy",herbal,False,False,Chevreton de Macon,,
+https://www.cheese.com/pitchfork-cheddar/,,hard,,,"compact, creamy, firm",cloth wrapped,pale yellow,"acidic, fruity, grassy, nutty, tangy","buttery, fruity, grassy, nutty, subtle",False,False,,,Trethowan Brothers
+https://www.cheese.com/beach-box-brie/,Brie,artisan,,,creamy,ash coated,golden yellow,creamy,rich,True,False,,,BoatShed Cheese
+https://www.cheese.com/maribo/,Gouda,"semi-hard, artisan",35-40%,,"creamy, firm, open",waxed,pale yellow,tangy,strong,False,False,,,
+https://www.cheese.com/sartori-classic-montamore/,Parmesan,"semi-hard, artisan",,,"dense, firm",rindless,pale yellow,"creamy, fruity, sweet, tangy","fresh, fruity, pleasant",True,False,,,Sartori
+https://www.cheese.com/ms-natural/,,fresh soft,,,"creamy, crumbly, smooth, spreadable",rindless,white,"citrusy, creamy","fresh, mild",True,False,,,Cypress Grove Chevre
+https://www.cheese.com/cacio-di-bosco-al-tartufo/,,"semi-firm, artisan",55%,,"crumbly, firm",,ivory,"nutty, sour, sweet",strong,,,,,Cooperativa Agricola IL FORTETO
+https://www.cheese.com/liptauer/,,"fresh soft, artisan",,,,rindless,brown,"garlicky, savory, spicy, sweet","garlicky, spicy",True,False,,,Zingerman's Creamery
+https://www.cheese.com/campi/,,"semi-hard, artisan",,,"elastic, firm",natural,ivory,"spicy, sweet",strong,False,False,,,Azienda Agricola Gritti Bruno E Alfio S.s. Societa Agricola
+https://www.cheese.com/coeur-de-chevre/,,"soft, soft-ripened",,,creamy,leaf wrapped,pale yellow,"salty, spicy","fresh, milky",False,False,,,
+https://www.cheese.com/moses-sleeper/,Brie,"semi-soft, artisan",,,"soft, soft-ripened",bloomy,white,"buttery, creamy, nutty","milky, mushroom",,,,,Jasper Hill Farm
+https://www.cheese.com/maggies-round/,Tomme,"semi-hard, artisan",,,"firm, smooth",natural,blue-grey,"buttery, citrusy, nutty, sharp","earthy, fruity, herbal",True,False,,,Cricket Creek Farm
+https://www.cheese.com/st-gall/,Swiss Cheese,"hard, brined",,,"creamy, smooth, soft, springy",natural,yellow,"fruity, mild, milky, nutty, smooth, yeasty","fruity, mild, milky, nutty, rich, yeasty",False,False,,,CAIS Cheesemakers Association Ltd
+https://www.cheese.com/schloss/,,"semi-soft, brined",,,"chalky, creamy, smooth",washed,straw,"citrusy, earthy, fruity, full-flavored, meaty, pungent","pungent, strong",False,False,,,Marin French Cheeese Co.
+https://www.cheese.com/boo-boo-baby-swiss/,Swiss Cheese,"hard, artisan",,,"crumbly, firm, open",natural,yellow,"nutty, sweet","milky, pleasant",False,False,,,Rockhill Creamery
+https://www.cheese.com/caveman-blue/,Blue,"semi-hard, blue-veined",,,"creamy, dense",natural,pale yellow,"buttery, mushroomy",fresh,True,False,,,Rogue Creamery
+https://www.cheese.com/austrian-alps/,,,,,smooth,,,"nutty, spicy","aromatic, nutty, spicy",False,False,,,
+https://www.cheese.com/prastost/,Cheddar,semi-soft,45-50%,,creamy,,yellow,"salty, spicy, strong","aromatic, rich",False,False,"Priest Cheese, Saaland Pfarr, VODCheese",,
+https://www.cheese.com/comte-12-months/,,semi-hard,,,buttery,washed,yellow,milky,nutty,False,False,Comté Grande Réserve 12-18 months,,JuraFlore
+https://www.cheese.com/coastal-cheddar/,Cheddar,firm,,,,rindless,pale yellow,"crunchy, sweet",nutty,,,,,Ford Farm
+https://www.cheese.com/marbled-cheeses/,,"hard, processed",,,firm,rindless,golden orange,"mild, smooth, sweet, tangy",,False,False,,"Marble Cheddar, Marbled Cheese",
+https://www.cheese.com/lo-sburrato/,Pecorino,"semi-soft, artisan",,,"compact, creamy",natural,straw,"creamy, smooth, sweet",aromatic,,,,,Caseificio Pinzani Srl
+https://www.cheese.com/milawa-brie/,Brie,"soft, soft-ripened",27%,,creamy,mold ripened,pale yellow,"buttery, milky",,,,,,Milawa Cheese Company
+https://www.cheese.com/applewood/,Cheddar,semi-hard,,,"crumbly, dense",natural,yellow,"smokey , spicy",smokey,True,False,Applewood smoked cheddar,,Ilchester Cheese Company
+https://www.cheese.com/crowley/,Cheddar,"semi-soft, hard, artisan",,,"creamy, crumbly, firm, smooth",cloth wrapped,pale yellow,"buttery, full-flavored, mild, savory, smokey , spicy, sweet, tangy","aromatic, fresh, mild, pleasant, smokey",False,False,,,Crowley Cheese
+https://www.cheese.com/maytag-blue/,Blue,"semi-hard, blue-veined",,,"crumbly, dense",rindless,cream,"lemony, savory, tangy","pungent, strong",,,,,Maytag Dairy Farms
+https://www.cheese.com/bijou/,,"semi-soft, artisan",11%,,"creamy, smooth",mold ripened,,"sharp, sweet, tangy, yeasty","fresh, yeasty",,,,,Vermont Creamery
+https://www.cheese.com/sheep-gouda/,Gouda,"semi-hard, artisan",,,"compact, crumbly, dense",natural,pale yellow,"caramel, nutty",,,,,,Fuzzy Udder Creamery
+https://www.cheese.com/cambozola-grand-noir/,Blue,"semi-soft, blue-veined",,,creamy,waxed,pale yellow,"sharp, sweet",aromatic,True,False,"Cambozola Black Label, Cambozola Classic, Cambozola Finesse, Cambozola Balance, Cambozola",,Käserei Champignon
+https://www.cheese.com/somerset-organic-cheddar/,,"hard, organic",,,"creamy, crumbly",,pale yellow,,,,,Somerset Cheddar,,
+https://www.cheese.com/melinda-mae/,Brie,"soft, artisan, soft-ripened",,,"creamy, fluffy, runny, smooth, soft",bloomy,ivory,"buttery, mild, piquant, pungent, savory, subtle, sweet","fruity, musty, yeasty",,,,,The Mystic Cheese Company
+https://www.cheese.com/blue-rathgore/,Blue,"semi-soft, artisan",,,"creamy, crumbly",natural,ivory,"buttery, spicy",,True,False,,,
+https://www.cheese.com/smokey-mountain-round/,,"semi-soft, artisan",,,compact,natural,white,"savory, woody","aromatic, lactic",True,False,,,Goat Lady Dairy
+https://www.cheese.com/cheddar-ladida-lavender/,Cheddar,"semi-hard, artisan",,,"creamy, smooth",natural,white,"herbaceous, savory, subtle",earthy,True,False,,La Di Da Lavender,Rogue Creamery
+https://www.cheese.com/perroche/,,"fresh soft, artisan",,,,,white,"lemony, mild","aromatic, fresh, herbal",True,False,,,Neal's Yard Creamery
+https://www.cheese.com/ptit-berrichon/,,"soft, artisan",,,soft-ripened,leaf wrapped,white,sweet,goaty,False,False,,,
+https://www.cheese.com/appenzeller/,,"hard, artisan",,,firm,washed,,"fruity, nutty",strong,,,,"Appenzeller Classic, Appenzeller Surchoix, Appenzeller Extra",
+https://www.cheese.com/leerdammer/,Gouda,semi-hard,,,"creamy, open, smooth",natural,white,"mild, nutty, sweet",,True,False,,,
+https://www.cheese.com/strawberry-moon/,,"semi-hard, artisan, smear-ripened",,,"compact, creamy, dense",washed,straw,"subtle, sweet",strong,,,,,Fifth Town Artisan Cheese
+https://www.cheese.com/cure-nantais/,,"soft, artisan",40%,,"open, sticky, supple",,straw,"smokey , spicy",,False,False,Nantais,,Various
+https://www.cheese.com/mouse-house-chilli-cheddar/,,semi-hard,,,creamy,waxed,golden orange,spicy,spicy,True,False,,,Lymn Bank Farm
+https://www.cheese.com/curworthy/,,semi-hard,48%,,creamy,natural,cream,buttery,fresh,True,False,,,Rachel Stephens
+https://www.cheese.com/civray/,,"soft, artisan",45%,,"creamy, firm",natural,pale yellow,"acidic, sweet",pleasant,False,False,,,
+https://www.cheese.com/cup-cheese/,,"soft, artisan",,,"creamy, spreadable",,,"sharp, sour, strong",strong,,,,,
+https://www.cheese.com/laura-chenel-taupiniere/,,"soft, artisan",,,"creamy, soft",ash coated,white,"creamy, tart","aromatic, fresh",,,,,Laura Chenel's Chevre
+https://www.cheese.com/montgomerys-cheddar/,Cheddar,"hard, artisan",,,,natural,yellow,,rich,False,False,,,
+https://www.cheese.com/boivin-extra-aged-cheddar/,Cheddar,hard,,,"firm, smooth",rindless,straw,"acidic, buttery",,,,,,La Fromagerie Boivin
+https://www.cheese.com/morangie-brie/,Brie,"soft, artisan",,,"creamy, smooth",,cream,"creamy, smooth, sweet","mild, milky, sweet",,,Jezebel,,Highland Fine Cheeses Limited
+https://www.cheese.com/san-andreas/,,"hard, artisan",,,"creamy, firm, open, smooth",natural,straw,"butterscotch, nutty, sweet","clean, mild, rich",True,False,,,Bellwether Farms
+https://www.cheese.com/brillat-savarin/,,"soft, artisan",75%,,"creamy, dense",mold ripened,white,"buttery, nutty, sour",milky,False,False,,,
+https://www.cheese.com/pecorino-barba-del-passatore/,Pecorino,"semi-soft, artisan",,,"buttery, smooth, soft",natural,white,"buttery, smooth","pronounced, strong",,,,,Romaniae Terrae
+https://www.cheese.com/la-pyramide/,,"semi-soft, artisan",,,dense,ash coated,ivory,"salty, tangy",mild,False,False,,,The Farm House Natural Cheeses
+https://www.cheese.com/pecorino-all-canapa/,Pecorino,"semi-soft, artisan",,,smooth,leaf wrapped,white,"herbaceous, smooth","aromatic, herbal",,,Pecorino Canapa,,
+https://www.cheese.com/carrick/,,"hard, organic",,,creamy,edible,cream,citrusy,earthy,True,False,,,The Ethical Dairy
+https://www.cheese.com/pembrokeshire-extra-mature-cheddar/,Cheddar,"semi-soft, artisan",,,"crumbly, dense",,yellow,"strong, tangy",rich,False,False,Extra Mature Welsh Cheddar,,Pembrokeshire Cheese Company
+https://www.cheese.com/laveyronnais/,,soft,,,,leaf wrapped,white,,grassy,False,False,,,
+https://www.cheese.com/peekskill-pyramid/,Brie,"soft, artisan",50%,,creamy,rindless,pale yellow,"buttery, sour, sweet",rich,False,False,,,Egg Farm Dairy
+https://www.cheese.com/mature-wensleydale/,,"hard, artisan",48%,,crumbly,cloth wrapped,pale yellow,strong,"rich, ripe",False,False,,Ryp Wensleydale,Wensleydale Creamery
+https://www.cheese.com/chile-jack/,Monterey Jack,"semi-soft, artisan",,,creamy,waxed,cream,"creamy, spicy, subtle, tangy",mild,True,False,,,Haystack Mountain Creamery
+https://www.cheese.com/cwmtawe-pecorino/,Pecorino,hard,,,creamy,washed,orange,,aromatic,True,False,,,Irranca Giovanni Antonio
+https://www.cheese.com/blue-benedictine/,,"semi-soft, blue-veined, soft-ripened",,,"buttery, creamy, crumbly, smooth",natural,brownish yellow,"buttery, creamy, earthy, grassy, herbaceous, mushroomy, salty, smooth, sweet","buttery, earthy, grassy, herbal, mushroom, sweet",,,,,"Benedictine Abbey of Saint-Benoît-du-Lac, Quebec."
+https://www.cheese.com/bergues/,,semi-hard,15-25%,,smooth,washed,,"subtle, sweet",aromatic,False,False,,,
+https://www.cheese.com/prima-donna-fino/,Parmesan,hard,30.5 g/100g,921 mg/100g,"crumbly, crystalline, firm",natural,pale yellow,"full-flavored, nutty, sweet",rich,,,,,Vandersterre Groep International B.V.
+https://www.cheese.com/ardsallagh-hard-goats-cheese/,,"semi-hard, artisan",,,"firm, smooth",natural,white,"nutty, salty, smooth",,True,False,,,Ardsallagh Goats Farm
+https://www.cheese.com/latteria-san-biagio/,,"soft, artisan",,,creamy,natural,white,"acidic, sweet",subtle,False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/pimento/,,"soft, artisan",,,"creamy, crumbly",rindless,brown,spicy,,False,False,,,Zingerman's Creamery
+https://www.cheese.com/malvarosa/,,"semi-firm, artisan",,,"firm, smooth",natural,straw,"buttery, sweet","fresh, rich",False,False,Malvarosa,,
+https://www.cheese.com/broncha/,,"semi-hard, artisan",,,creamy,mold ripened,straw,"creamy, mild",,False,False,,,Achadinha Cheese Company
+https://www.cheese.com/meredith-chevre-plain/,,"fresh soft, artisan",,,"creamy, soft",rindless,white,"acidic, smooth","clean, fresh",True,False,,,Meredith Dairy
+https://www.cheese.com/cooleney/,Camembert,"soft, artisan",45%,,"creamy, smooth",mold ripened,white,"bitter, buttery, mushroomy",,True,False,,Cooleeney Farmhouse Cheese,Cooleeney Farm
+https://www.cheese.com/appalachian/,Tomme,"semi-soft, artisan",,,firm,mold ripened,white,"buttery, lemony, mushroomy","earthy, grassy, lactic",,,,,Meadow Creek Dairy
+https://www.cheese.com/moonglo/,,"semi-hard, artisan",,,"dense, firm, open",washed,ivory,"caramel, citrusy, fruity, nutty, sharp, tangy","aromatic, goaty",False,False,,,Prairie Fruits Farm
+https://www.cheese.com/saint-agur/,Blue,"soft, blue-veined",60%,,"creamy, smooth, spreadable",,blue,"fruity, mellow, sharp",strong,False,False,,"Saint Agur Coupe, Saint Agur Crème",Savencia Fromage & Dairy
+https://www.cheese.com/st-fidele-swiss/,Swiss Cheese,semi-hard,17%,,"elastic, firm, open",rindless,ivory,"nutty, sweet","aromatic, sweet",,,La Belle Brune,"St-Fidele Swiss, Suisse St-Fidèle, Saint Fidele Swiss",Fromagerie St-Fidèle
+https://www.cheese.com/afuegal-pitu/,,"soft, artisan",,,smooth,cloth wrapped,,"spicy, strong",,False,False,,,
+https://www.cheese.com/pyramide/,,"soft, artisan",,,crumbly,natural,ivory,,pungent,False,False,,,
+https://www.cheese.com/pecorino-con-caglio-vegetale/,Pecorino,"semi-hard, artisan",,,"compact, creamy",natural,white,"bitter, subtle, vegetal","earthy, pleasant",True,False,,,Caseificio Pinzani Srl
+https://www.cheese.com/molbo/,Cheddar,"semi-hard, artisan",,,firm,waxed,pale yellow,"salty, tangy",fresh,False,False,,,
+https://www.cheese.com/le-lacandou/,,"soft, artisan",45%,,creamy,natural,pale yellow,fruity,grassy,False,False,,,
+https://www.cheese.com/abbaye-de-belval/,,semi-hard,40-46%,,elastic,washed,ivory,,aromatic,False,False,,,
+https://www.cheese.com/stoney-cross/,Tomme,"semi-hard, artisan",,,"creamy, smooth",mold ripened,yellow,"earthy, subtle, sweet",,True,False,,,Lyburn Farm
+https://www.cheese.com/majorero/,,semi-hard,,,"buttery, creamy",natural,pale white,acidic,"milky, nutty",False,False,"Queso Majorero, Queso Fuerteventura, Majorero PDO, Majorero DOP",,
+https://www.cheese.com/pecorino-al-tartufo/,Pecorino,"hard, artisan",,,firm,,cream,"sharp, spicy","grassy, nutty",,,Truffle Pecorino,,
+https://www.cheese.com/pecorino-fiordaliso/,Pecorino,"semi-hard, artisan",,,compact,natural,ivory,"smooth, subtle","aromatic, floral, pronounced",,,,,Romaniae Terrae
+https://www.cheese.com/shelburne-cheddar/,Cheddar,"hard, artisan",51%,,firm,rindless,pale yellow,strong,rich,True,False,,,Shelburne Farms
+https://www.cheese.com/manur/,,"hard, artisan",40%,,creamy,natural,,salty,,False,False,,,
+https://www.cheese.com/canastra-cheese/,,artisan,,,,,yellow,spicy,aromatic,,,Queijo Canastra,,
+https://www.cheese.com/cave-aged-marisa/,,"semi-hard, artisan",,,firm,natural,pale yellow,"sweet, tangy",sweet,,,,,Carr Valley Cheese Company
+https://www.cheese.com/colby/,Cheddar,semi-hard,,,"firm, open, springy",rindless,yellow,sweet,"mild, sweet",False,False,,Colby Swiss Cheddar,
+https://www.cheese.com/mirabo-brie-with-walnut/,Brie,"semi-soft, soft-ripened",,,"creamy, smooth, soft",natural,ivory,"nutty, savory",nutty,,,"Mirabo Walnut, Mirabo Brie Walnut",,Käserei Champignon
+https://www.cheese.com/president-camembert/,Camembert,"semi-soft, soft-ripened",,,"creamy, firm, soft",bloomy,cream,"creamy, earthy",rich,,,,,President Cheese
+https://www.cheese.com/bianco/,,semi-hard,32.5 g/100g,725 mg/100g,"creamy, open, soft",natural,pale yellow,"buttery, garlicky, mild",,False,False,,"Bianco Garlic, Bianco Original",Bergader Privatkäserei GmbH
+https://www.cheese.com/croghan/,,"semi-soft, artisan",,,supple,washed,white,full-flavored,"earthy, grassy",True,False,,,Croghan Goat Farm
+https://www.cheese.com/alma-vorarlberger-bergkase-6-months/,,"hard, artisan",34%,,"firm, open, supple",natural,cream,"piquant, spicy, tangy",aromatic,False,False,Rupp Vorarlberger Bergkäse,Vorarlberger Bergkase 6 months,Rupp AG
+https://www.cheese.com/sparkenhoe-red-leicester/,,hard,,,"brittle, close, creamy, crumbly, flaky",,orange,nutty,,,,,,
+https://www.cheese.com/lindy-hop/,Blue,"semi-soft, blue-veined",,,creamy,natural,straw,"creamy, grassy, mild","rich, strong",False,False,,,Dancing Cow Farm
+https://www.cheese.com/milawa-goats-tomme/,Tomme,semi-hard,,,"creamy, crumbly, dense",natural,yellow,"savory, spicy",earthy,True,False,,,Milawa Cheese Company
+https://www.cheese.com/laclare-farms-fondry-jack/,Monterey Jack,"fresh soft, artisan",,,creamy,natural,ivory,mild,fresh,,,,"Pepper Jack Fondy Jack, Tomato Basil Fondy Jack",LaClare Farms
+https://www.cheese.com/chura-kampo/,,"hard, artisan",,,"dense, dry, firm",natural,,,aromatic,,,"chura loenpa , ser",,
+https://www.cheese.com/bianca/,,"fresh soft, artisan",,,"soft, spreadable",rindless,ivory,"creamy, tangy","fresh, rich",,,,,Tieton Farm & Creamery
+https://www.cheese.com/caciocavallo-podolico-vetus/,Pasta filata,soft,,,firm,natural,,"buttery, sweet",earthy,,,Caciocavallo Vetus,,Casa Madaio
+https://www.cheese.com/mimolette-boule-de-lille/,,semi-hard,,,firm,natural,orange,"bitter, buttery, sweet",,False,False,"vieux Hollande, Boule de Lille",,
+https://www.cheese.com/beemster-graskaas/,Gouda,semi-hard,,,"creamy, open, smooth",natural,yellow,full-flavored,rich,False,False,,,"Beemster Cheese, CONO Kaasmakers / Beemster"
+https://www.cheese.com/bear-hill/,,"semi-hard, smear-ripened",,,smooth,washed,pale yellow,"fruity, mild, milky, nutty, sweet",,,,,,Grafton Village Cheese Company
+https://www.cheese.com/country-morning/,Cheddar,"hard, artisan",,,"creamy, crumbly",natural,pale yellow,"nutty, sharp",strong,False,False,,,The Farm House Natural Cheeses
+https://www.cheese.com/sosha/,,"soft, artisan",,,creamy,natural,white,"pungent, strong","pungent, strong",,,Churul,,
+https://www.cheese.com/cuajada/,,soft,,,"creamy, smooth",,,,,False,False,,,
+https://www.cheese.com/meredith-blue/,Blue,"soft, semi-soft, artisan, blue-veined",,,creamy,natural,blue,"mild, mushroomy, sweet","fresh, goaty",False,False,,,Meredith Dairy
+https://www.cheese.com/saltbush_chevre/,,"fresh firm, artisan",45%,,creamy,rindless,white,"acidic, grassy, herbaceous, salty","goaty, grassy, herbal",True,False,,,Woodside Cheese Wrights
+https://www.cheese.com/babybel/,,semi-hard,,,smooth,waxed,,,,,,,,
+https://www.cheese.com/azeitao/,,"semi-soft, artisan",,,"creamy, supple",washed,pale yellow,"herbaceous, salty, sour",,True,False,Queijo de Azeitao,,
+https://www.cheese.com/little-rydings/,,"soft, artisan",48%,,"creamy, smooth, springy",mold ripened,white,"mild, sweet","rich, sweet",True,False,,,Wootton Organic Dairy
+https://www.cheese.com/pecorino-al-pepe/,Pecorino,"semi-soft, artisan",,,"compact, crumbly",natural,cream,"sharp, spicy, strong","pleasant, strong",,,,,Caseificio Pinzani Srl
+https://www.cheese.com/laguiole/,,"semi-hard, artisan",,,"creamy, firm, supple",natural,straw,"sharp, sour, tangy",aromatic,False,False,,Tome de Laguiole,
+https://www.cheese.com/point-reyes-toma/,,"semi-hard, artisan",,,"buttery, creamy",waxed,ivory,"buttery, creamy",buttery,True,False,,,Point Reyes Farmstead Cheese Co
+https://www.cheese.com/swag/,,"fresh firm, artisan",,,"creamy, crumbly",ash coated,white,"acidic, creamy",fresh,True,False,,,Woodside Cheese Wrights
+https://www.cheese.com/stawley/,,soft,,,"dense, firm, smooth",mold ripened,pale yellow,"caramel, floral, milky, sweet","mushroom, nutty",False,False,,,
+https://www.cheese.com/cornish-brie/,Brie,"soft, artisan, soft-ripened",,,"creamy, soft-ripened",bloomy,yellow,"creamy, mild",,,,,,"Cornish Cheese Company Ltd, Cornish Country Larder ltd."
+https://www.cheese.com/picodon-de-chevre/,,"soft, artisan",,,"firm, smooth",natural,white,"sour, sweet","goaty, pungent",,,"Picodon AOC, Picodon PDO, Picodon AOP",,
+https://www.cheese.com/barricato-al-pepe/,,"firm, artisan",,,crumbly,natural,ivory,,"fruity, spicy",,,,,
+https://www.cheese.com/blue-wensleydale/,Blue,"hard, blue-veined",,,close,cloth wrapped,blue,"acidic, salty, savory, sharp, strong",rich,True,False,,,Wensleydale Creamery
+https://www.cheese.com/mouse-house-garlic-chive-cheddar/,,semi-hard,,,creamy,waxed,green,garlicky,garlicky,True,False,,,Lymn Bank Farm
+https://www.cheese.com/laclare-farms-evalon/,Gouda,"semi-hard, artisan",,,creamy,natural,ivory,mild,goaty,True,False,,,LaClare Farms
+https://www.cheese.com/caronzola/,Blue,"soft, blue-veined",,,creamy,bloomy,ivory,mild,,,,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/pelardon-des-corbieres/,,soft,45%,,,,,"acidic, sweet",,False,False,,,
+https://www.cheese.com/boivin-medium-cheddar/,Cheddar,semi-hard,,,"firm, smooth",rindless,pale yellow,"acidic, buttery",,,,,,La Fromagerie Boivin
+https://www.cheese.com/pecorino-gelsomino/,Pecorino,"hard, artisan",,,"crumbly, flaky",natural,ivory,"creamy, milky","aromatic, floral",,,,,Romaniae Terrae
+https://www.cheese.com/champignon-mushrooom/,,"soft, soft-ripened",,,creamy,natural,cream,"creamy, mushroomy","fresh, mild",True,False,Champignon Mushroom Mini,,Käserei Champignon
+https://www.cheese.com/monteo/,,"semi-firm, artisan",,,"creamy, open",natural,pale yellow,"buttery, milky, smooth","fresh, milky",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/boulette-davesnes/,,fresh soft,45%,,"creamy, smooth",washed,,spicy,stinky,True,False,,,
+https://www.cheese.com/cacioradicchio/,,soft,,,creamy,leaf wrapped,white,"bitter, herbaceous, subtle","aromatic, fresh",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/black-pearl/,,"semi-hard, artisan",,,firm,ash coated,,mild,fresh,True,False,Boatshed Black Pearl,,BoatShed Cheese
+https://www.cheese.com/sartori-limited-edition-pastorale-blend/,,"semi-hard, artisan",,,creamy,natural,pale yellow,"nutty, sweet","earthy, nutty, sweet",,,,,Sartori
+https://www.cheese.com/melange/,Brie,"soft, soft-ripened",,,"firm, soft-ripened",bloomy,cream,"piquant, spicy, sweet, tart",goaty,,,,,Andante Dairy
+https://www.cheese.com/brie-de-melun/,Brie,"semi-soft, soft-ripened",45%,,firm,bloomy,yellow,"salty, sharp, sour, strong","grassy, musty",,,Brie Noir,,
+https://www.cheese.com/bothwell-black-truffle-cheddar/,Cheddar,semi-hard,,,firm,rindless,pale yellow,"earthy, fruity","buttery, rich",,,,,Bothwell Cheese Inc.
+https://www.cheese.com/may-hill-green/,,"semi-soft, artisan",,,runny,leaf wrapped,cream,"creamy, milky",strong,True,False,,Mayhill Green,Charles Martell & Son Limited
+https://www.cheese.com/barambah-organics-marinated-feta/,Feta,fresh soft,25.22 g/100g,,"creamy, crumbly, springy",rindless,white,"herbaceous, mild, milky","herbal, mild, milky",True,False,,,Barambah Organics Pty Ltd.
+https://www.cheese.com/black-betty/,,"hard, artisan",,,firm,waxed,,,,,,,,"Essex St. Cheese Co., Fromagerie L'Amuse"
+https://www.cheese.com/cheshire/,,hard,,,"crumbly, dense",cloth wrapped,orange,earthy,"grassy, spicy",,,Appleby's Cheshire,,Appleby's
+https://www.cheese.com/blu-61/,Blue,"soft, blue-veined",,,"creamy, soft",,white,"creamy, pronounced, strong","fruity, rich, sweet",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/mountain-rebel/,,"semi-hard, artisan",50%,,"compact, creamy",natural,yellow,"creamy, fruity","aromatic, spicy",,,Bergrebell,,Sulzberger Käserebellen Sennerei GmbH
+https://www.cheese.com/paneer/,Cottage,fresh firm,20.8 g/100g,208 mg/100g,"crumbly, firm",rindless,white,milky,"fresh, milky",True,False,"Chhena, Chhana",,
+https://www.cheese.com/almnas-tegel/,,"hard, smear-ripened",,,"open, smooth",washed,straw,"caramel, fruity, nutty","fruity, sweet",False,False,,Almnas Tegel,Almnäs Bruk
+https://www.cheese.com/lincoln-log/,,"semi-soft, soft-ripened",,,"creamy, dense",mold ripened,white,"citrusy, lemony, mild, mushroomy, tangy","goaty, milky",False,False,,,Zingerman's Creamery
+https://www.cheese.com/cheddar-with-red-wine/,Cheddar,"semi-hard, artisan",,,firm,,pale yellow,"fruity, tangy","fruity, rich",True,False,Red Wine Cheddar,,J.O.D. Foods
+https://www.cheese.com/vegan-brixton-blue-cheese/,,semi-firm,,,"creamy, semi firm, soft-ripened",mold ripened,blue,"creamy, full-flavored, piquant, tangy, umami","earthy, fermented, pungent, strong",True,True,,,La Fauxmagerie
+https://www.cheese.com/alma-vorarlberger-alpkase-3-5-months/,,"hard, artisan",34%,,firm,natural,yellow,"mild, spicy","mild, spicy",False,False,Vorarlberg Alpine cheese 3-5 months,,Rupp AG
+https://www.cheese.com/provolone/,Pasta filata,"semi-hard, artisan",,,firm,,pale yellow,tangy,pleasant,,,,,
+https://www.cheese.com/landaff/,,"semi-hard, artisan",,,"creamy, firm, open",natural,straw,"mild, tangy",aromatic,,,,,"Jasper Hill Farm, Landaff Creamery, LLC"
+https://www.cheese.com/lost-lake/,,"fresh firm, artisan, soft-ripened",,,"creamy, semi firm, soft",mold ripened,white,"creamy, mushroomy","rich, yeasty",,,,,Fifth Town Artisan Cheese
+https://www.cheese.com/pecorino-querciaiolo/,Pecorino,semi-soft,,,smooth,natural,white,"smooth, subtle",strong,,,,,Romaniae Terrae
+https://www.cheese.com/tamie/,,"soft, artisan",,,"creamy, open, smooth",washed,white,"fruity, nutty","perfumed, pungent",False,False,,"Tamié, Trappiste de Tamie, Abbey of Tamie",
+https://www.cheese.com/classic-blue-log/,,"semi-soft, artisan",,,"creamy, dense, soft",mold ripened,cream,"creamy, tangy","clean, fresh",True,False,,,Westfield Farm
+https://www.cheese.com/sun-dried-tomato-and-basil-cashew-cheese/,,"soft, artisan",,,creamy,,white,"creamy, full-flavored, herbaceous, nutty, tangy","herbal, nutty",True,False,,,Zengarry Vegetarian Cuisine
+https://www.cheese.com/capriole-banon/,,"soft, artisan",,,"creamy, dense",leaf wrapped,pale yellow,"citrusy, strong, sweet","aromatic, fresh, goaty",False,False,O'Banon,,Capriole Goat Cheese
+https://www.cheese.com/mountain-herbs-rebel/,,"semi-hard, artisan",50%,,"creamy, smooth",natural,pale yellow,"creamy, nutty, spicy","aromatic, grassy, sweet",,,Bergkräuterrebell,,Sulzberger Käserebellen Sennerei GmbH
+https://www.cheese.com/pecorino-a-latte-crudo/,Pecorino,"semi-hard, artisan",,,"compact, crumbly",natural,straw,"piquant, savory, sharp, smooth",strong,,,,,Romaniae Terrae
+https://www.cheese.com/san-geronimo/,,"semi-soft, brined",,,smooth,washed,white,"acidic, meaty, mellow, mild, tangy, tart",earthy,False,False,,,Nicasio Valley Cheese Company
+https://www.cheese.com/aged-cashew-dulse-cheese/,,"firm, artisan",,,"firm, spreadable",,brown,"creamy, oceanic",rich,True,False,,,Dr. Cow Tree Nut Cheese
+https://www.cheese.com/big-johns-cajun/,,"hard, artisan",,,"creamy, smooth",natural,pale yellow,"smooth, spicy","rich, spicy",True,False,,,Beehive Cheese Company
+https://www.cheese.com/laclare-farms-evalon-fenugreek/,Gouda,"semi-hard, artisan",,,creamy,natural,pale yellow,mild,goaty,True,False,Fenugreek Evalon,,LaClare Farms
+https://www.cheese.com/la-sauvagine-reserve/,,soft,38%,,"buttery, creamy, runny, supple",washed,ivory,"buttery, creamy, mild, milky",mushroom,True,False,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/alex-james-co-no-5-grunge/,,"soft, semi-soft, organic",,,"creamy, soft",washed,orange,,,,,,,
+https://www.cheese.com/chevre/,,,,,,,white,tangy,goaty,,,"Goat cheese, Chevre, Chèvre",,
+https://www.cheese.com/assa/,,,,,,natural,,,,,,,,Tomales Farmstead Creamery
+https://www.cheese.com/pizy/,Tomme,"soft, artisan, soft-ripened",27%,,"creamy, smooth, soft",bloomy,ivory,"bitter, buttery, mild, milky, salty",mushroom,,,,,Fromagerie La Suisse Normande
+https://www.cheese.com/shepherds-hope/,,"fresh soft, artisan",,,"creamy, firm, soft",rindless,white,"citrusy, garlicky, herbaceous, mild, milky","aromatic, fresh, herbal",True,False,,,Shepherd's Way Farms
+https://www.cheese.com/maisies-kebbuck/,,"semi-hard, artisan",29.8%,,"creamy, crumbly",natural,white,,fresh,True,False,,,Errington Cheese Ltd.
+https://www.cheese.com/monet/,,"fresh soft, artisan",22%,,"creamy, soft",,white,"floral, herbaceous","floral, fresh",True,False,,,Woodside Cheese Wrights
+https://www.cheese.com/petit-suisse/,,fresh soft,40%,,"creamy, smooth",rindless,white,"mild, sweet",fresh,,,,"double Suisse, double Petit-Suisse, Suisse double",Danone
+https://www.cheese.com/canestrato/,,"hard, artisan",,,"dense, flaky",,straw,full-flavored,"spicy, strong",,,"Canestrato di Moliterno, Canestrato di Moliterno IGP",,Casa Madaio
+https://www.cheese.com/barely-buzzed/,Cheddar,"hard, artisan",,,"creamy, smooth",natural,pale yellow,"butterscotch, caramel","aromatic, rich",True,False,,,Beehive Cheese Company
+https://www.cheese.com/laclare-farms-cheddar/,Cheddar,"semi-soft, artisan",,,creamy,,ivory,"mild, sweet, tangy","fruity, sweet",True,False,,,LaClare Farms
+https://www.cheese.com/alta-badia/,,semi-soft,33.5 g/100g,,firm,,,"milky, sharp, tangy",,False,False,,,Mila LATTE MONTAGNA ALTO ADIGE
+https://www.cheese.com/stella-kasseri/,,"semi-hard, artisan",,,firm,natural,pale yellow,"salty, sharp, tangy",strong,True,False,,,Saputo Inc.
+https://www.cheese.com/bonchester/,,"soft, artisan",20%,,"close, smooth",natural,yellow,mild,grassy,False,False,,,
+https://www.cheese.com/bix/,,"soft, semi-soft",,,"buttery, creamy, soft, soft-ripened",,pale yellow,,,,,,,
+https://www.cheese.com/pack-square/,Brie,"semi-soft, artisan, soft-ripened",,,"buttery, creamy, soft, soft-ripened",bloomy,white,"buttery, creamy, earthy, spicy","grassy, rich",,,,,Looking Glass Creamery
+https://www.cheese.com/mona/,,"semi-hard, artisan",,,"crumbly, firm, supple",plastic,pale yellow,"buttery, nutty, savory, sweet",grassy,False,False,,,Wisconsin Sheep Dairy Coop
+https://www.cheese.com/bethmale-des-pyrenees/,,semi-hard,,,,natural,brownish yellow,mild,"aromatic, earthy, mushroom",False,False,,,
+https://www.cheese.com/brebirousse-dargental/,Brie,soft,,,"creamy, smooth",washed,orange,"creamy, sweet","grassy, milky",True,False,,,
+https://www.cheese.com/meredith-goat-cheese-in-extra-virgin-olive-oil/,,"fresh soft, artisan",,,"creamy, soft",,white,"garlicky, herbaceous, spicy","fresh, herbal, spicy, strong",,,,,Meredith Dairy
+https://www.cheese.com/sartori-classic-cheese-asiago/,,"hard, artisan",,,"compact, crumbly, open, smooth",natural,,"creamy, mild, nutty",pungent,True,False,,,Sartori
+https://www.cheese.com/paesanella-fresh-ricotta/,,fresh soft,,,firm,,white,creamy,"fresh, sweet",,,Paesanella Fresh Pure Milk Ricotta,,Paesanella Cheese Manufacturers
+https://www.cheese.com/coalho/,,semi-hard,,,"elastic, firm, springy",natural,yellow,"acidic, salty",fresh,False,False,"Queijo coalho, Queijo de coalho , Rennet Cheese",,
+https://www.cheese.com/aspen-ash/,,"soft, soft-ripened",,,creamy,ash coated,white,"acidic, creamy",earthy,True,False,,,Haystack Mountain Creamery
+https://www.cheese.com/muenster/,,"soft, processed",,,smooth,,pale yellow,mild,"pungent, strong",,,,American Muenster,
+https://www.cheese.com/affineur-walo-rotwein-sennechas/,Swiss Cheese,"hard, artisan",,,smooth,washed,cream,"creamy, pronounced, spicy","rich, strong",False,False,Affineur Walo Red Wine Farmer,,Walo von Mühlenen AG
+https://www.cheese.com/toscanello/,Pecorino,semi-hard,,,"creamy, smooth",,pale yellow,mild,nutty,False,False,"Pecorino Toscano, Pecorino Toscano DOP, Tuscan Pecorino, Pecorino Toscanello",,
+https://www.cheese.com/cornish-pepper/,Cornish,"soft, artisan",45%,,creamy,natural,white,smooth,rich,False,False,,,Lynher Valley Dairy
+https://www.cheese.com/suffolk-punch/,Pasta filata,"hard, artisan",,,"dry, firm",natural,ivory,"buttery, tangy","buttery, spicy",False,False,,,Parish Hill Creamery
+https://www.cheese.com/montagnolo/,Blue,"soft, blue-veined",,,"creamy, smooth",natural,,creamy,"buttery, rich",,,Montagnolo Affine,,Käserei Champignon
+https://www.cheese.com/brinza---feta-style/,Feta,"soft, brined",,,"creamy, crumbly, open",natural,white,"citrusy, salty, sweet, tangy",,False,False,Briza Feta,,The Gibbston Valley Cheese Company
+https://www.cheese.com/corra-linn/,,firm,,,crumbly,cloth wrapped,ivory,caramel,buttery,,,,,Errington Cheese Ltd.
+https://www.cheese.com/briscola/,,semi-hard,,,"firm, open",natural,ivory,"fruity, savory, spicy, strong","milky, pleasant, spicy",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/basket-cheese/,Cottage,"soft, semi-soft",,,"chewy, supple",rindless,white,"mild, salty",milky,True,False,,,"Specialty Cheese Company, Inc"
+https://www.cheese.com/prairie-rose/,Swiss Cheese,"semi-hard, artisan",,,"creamy, open",natural,yellow,"creamy, full-flavored, smooth","grassy, mild, nutty",True,False,,,Milton Creamery LLC
+https://www.cheese.com/pecorino-romano/,Pecorino,hard,,,"crumbly, grainy",natural,pale yellow,"salty, sharp",strong,False,False,Pecorino Romano PDO,,
+https://www.cheese.com/sartori-reserve-bellavitano-gold/,,hard,,,creamy,natural,pale yellow,"fruity, nutty, sweet","fruity, nutty, rich",,,,,Sartori
+https://www.cheese.com/caprese-di-bufala/,,soft,,,"oily, smooth",natural,straw,"herbaceous, mild, subtle, vegetal","aromatic, fresh",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/sartori-reserve-balsamic-bellavitano/,,hard,,,firm,,,"fruity, nutty, sweet, tangy","earthy, fruity, sweet",,,,,Sartori
+https://www.cheese.com/cornish-wild-garlic-yarg/,,"semi-firm, artisan",,,crumbly,leaf wrapped,pale yellow,garlicky,"garlicky, herbal",True,False,Cornish Garlic Yarg,,Lynher Dairies
+https://www.cheese.com/sussex-slipcote/,,soft,,,,,,sharp,,True,False,,,High Weald Dairy
+https://www.cheese.com/shropshire-blue/,Blue,semi-hard,,,"creamy, smooth",natural,orange,creamy,rich,True,False,"Blue Shropshire, Blue Stuart, Inverness-shire Blue",,
+https://www.cheese.com/chiriboga-blue/,Blue,"semi-soft, artisan, blue-veined",,,"creamy, dense, smooth, spreadable",mold ripened,cream,"buttery, grassy, mild, sweet",mild,False,False,,,
+https://www.cheese.com/camembert-calvados/,,"soft, semi-soft",,,"creamy, smooth, springy",,yellow,savory,"aromatic, fruity",,,,,
+https://www.cheese.com/menonita/,Cheddar,semi-soft,,,firm,natural,pale yellow,"buttery, mild",,,,"Queso Chihuahua, Chihuahua cheese, Queso menonita, Campresino Menonita",,
+https://www.cheese.com/stilton/,Blue,"hard, blue-veined",,,"creamy, crumbly, smooth",natural,,"spicy, strong",,,,"Cropwell Bishop Blue Stilton, Stilton Colston Bassett",,
+https://www.cheese.com/lou-pevre/,,"soft, processed",,,smooth,natural,white,acidic,goaty,False,False,,,
+https://www.cheese.com/milawa-affine/,,"semi-soft, artisan",,,"creamy, crumbly, smooth",ash coated,white,"acidic, creamy",,False,False,Milawa Ashed Chèvre,,Milawa Cheese Company
+https://www.cheese.com/cello-thick-smooth-mascarpone/,,"fresh soft, processed",,,"buttery, creamy, firm, smooth",rindless,white,"creamy, milky, sweet","fresh, milky",,,,,Schuman Cheese
+https://www.cheese.com/meredith-chevre-dill/,,"fresh soft, artisan",,,"creamy, soft",rindless,white,"herbaceous, smooth","aromatic, clean, fresh, herbal",True,False,,,Meredith Dairy
+https://www.cheese.com/capra-al-pepe/,,"soft, artisan",,,"creamy, soft",natural,pale yellow,"mild, spicy",spicy,,,,,Moro Latteria di Moro Sergio
+https://www.cheese.com/saga/,Brie,"soft, blue-veined, soft-ripened",,,creamy,bloomy,white,"creamy, mild",mild,False,False,"Saga Classic Blue Brie, Saga Blue Brie",,
+https://www.cheese.com/la-sauvagine/,,soft,32%,,"buttery, creamy, runny, supple",washed,ivory,"buttery, creamy",mushroom,True,False,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/pecorino-dei-malatesta-sotto-cenere/,Pecorino,"semi-soft, artisan",,,smooth,ash coated,white,"smooth, subtle, sweet","fresh, milky",,,,,Romaniae Terrae
+https://www.cheese.com/bryndza/,,"soft, artisan",,,spreadable,rindless,white,"mild, salty",,,,"Slovenská bryndza, Bryndza Podhalańska, Liptauer, Brinza, brynza","ovčia bryndza, Slovenska bryndza, Bryndza Podhalanska",
+https://www.cheese.com/st-mang-original-allgauer-limburger/,,"soft, artisan",,,creamy,natural,pale yellow,spicy,"mild, spicy",True,False,"St. Mang original Allgaeuer Romadur, St. Mang Masterpiec",,Käserei Champignon
+https://www.cheese.com/comte-18-months/,,hard,,,firm,natural,yellow,fruity,nutty,False,False,Comté Grande Réserve 18-24 months,,JuraFlore
+https://www.cheese.com/sulguni/,,semi-firm,,,"dense, elastic",,,"salty, smokey , sour",,,,Georgian Pickle Cheese,"Megruli Sulguni, Shebolili Megruli Sulguni",
+https://www.cheese.com/lacey-grey/,,"soft, artisan, soft-ripened",,,"creamy, soft",bloomy,white,"acidic, bitter, nutty","clean, herbal",,,,,Fifth Town Artisan Cheese
+https://www.cheese.com/le-brebiou/,Brie,"semi-soft, artisan, soft-ripened",26%,,"creamy, firm, smooth",bloomy,white,"mild, milky, sweet",musty,False,False,Brebiou sheep cheese,Brebiou ligne et plaisir,
+https://www.cheese.com/lady-jane/,Brie,"semi-soft, artisan, soft-ripened",,,"creamy, dense, soft-ripened",mold ripened,pale yellow,tangy,"earthy, mushroom",False,False,,,The Farm House Natural Cheeses
+https://www.cheese.com/alisia-victoria/,,firm,,,smooth,natural,golden yellow,buttery,nutty,,,,,Eyeweid
+https://www.cheese.com/bouyguette/,,fresh soft,,,"creamy, crumbly, soft",edible,white,"lemony, milky, smooth","floral, fresh, goaty, grassy",False,False,,,
+https://www.cheese.com/sarro-de-cabra/,,"semi-soft, artisan",,,buttery,cloth wrapped,white,"citrusy, strong, tangy","mild, sweet",,,Sarro,,Formatgeries Montbrú
+https://www.cheese.com/acapella/,,"soft, soft-ripened",,,,,,buttery,"fresh, herbal",False,False,,,
+https://www.cheese.com/les-calendos/,Camembert,"soft, soft-ripened",,,"creamy, smooth, supple",bloomy,cream,"creamy, full-flavored",,,,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/classics-fresh-mozzarella/,Mozzarella,"soft, brined",,,"creamy, elastic, smooth, soft, stringy, supple",rindless,white,"acidic, mild, milky, spicy",fresh,True,False,"perline, ciliegine, ovoline, marinated ciliegine",,Crave Brothers Farmstead Cheese
+https://www.cheese.com/swaledale/,,hard,,,semi firm,,yellow,"smooth, sweet",floral,True,False,Swaledale Sheep Cheese,,
+https://www.cheese.com/amul-gouda/,Gouda,semi-hard,46%,492 mg/100g,"compact, dense, firm, springy",plastic,yellow,"fruity, sweet",mild,True,False,,,Gujarat Cooperative Milk Marketing Federation (Amul)
+https://www.cheese.com/mountaineer/,,"semi-soft, artisan",,,"dense, supple",washed,yellow,"full-flavored, mellow","caramel, fruity, rich",,,,,Meadow Creek Dairy
+https://www.cheese.com/pacific-rock/,,hard,30%,,"crumbly, firm",washed,orange,"buttery, earthy, nutty, subtle","fruity, rich",,,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/baita-friuli/,,firm,,,compact,natural,pale yellow,"fruity, spicy",rich,False,False,,,
+https://www.cheese.com/merry-wyfe/,,semi-hard,,,"creamy, springy",washed,orange,,aromatic,True,False,,,The Bath Soft Cheese Co.
+https://www.cheese.com/caerphilly/,Cheddar,hard,48%,,"crumbly, dense",natural,white,"citrusy, mild, tangy",fresh,,,"Duckett's Caerphilly, Duckett's Aged Caerphilly",,
+https://www.cheese.com/selva/,,"soft, artisan",45%,,"smooth, supple",natural,pale yellow,"bitter, buttery, salty",pleasant,False,False,,Queso De La Selva,
+https://www.cheese.com/parmesan/,Parmesan,"hard, artisan",,,"dense, grainy",natural,straw,"salty, savory","nutty, strong",False,False,"Parmigiano Reggiano, Parmesan Regiano, Parmesan Reggiano, Parmesan Parmigiano",,
+https://www.cheese.com/provel/,Cheddar,"soft, processed",,,"buttery, gooey",plastic,white,buttery,smokey,False,False,,,
+https://www.cheese.com/marin-french-triple-creme/,Brie,soft,,,"fluffy, smooth",bloomy,,sweet,"rich, sweet",,,"3 Triple Crème Brie, Truffle Brie, Triple Crème Brie with Truffles",,Marin French Cheese
+https://www.cheese.com/smoked-lincolnshire-poacher/,,hard,,,"creamy, crumbly",,pale yellow,,,,,,,
+https://www.cheese.com/carre-de-lest/,,soft,,,smooth,washed,pale yellow,smokey,,,,,,
+https://www.cheese.com/le-cendrillon/,,soft,25%,,"creamy, smooth",ash coated,ivory,"acidic, pronounced, sour",goaty,,,,,La Maison Alexis de Portneuf Inc.
+https://www.cheese.com/shepsog/,,semi-firm,,,buttery,natural,yellow,"nutty, sweet","earthy, nutty, rich, sweet",,,,,Grafton Village Cheese Company
+https://www.cheese.com/little-dragon/,,soft,,,creamy,,white,"citrusy, creamy, mellow, sweet","fresh, herbal",False,False,,,Zingerman's Creamery
+https://www.cheese.com/st-tola-greek-style/,Feta,"firm, brined",,,smooth,rindless,white,"creamy, salty",goaty,,,,,Inagh Farmhouse Cheese Ltd
+https://www.cheese.com/striegistaler-zwerge-camembert/,Camembert,"semi-soft, soft-ripened",,,"creamy, soft",natural,white,"full-flavored, mild","aromatic, fresh, strong",True,False,,,Käserei Champignon
+https://www.cheese.com/lyburn-lightly-oak-smoked/,Gouda,"semi-hard, artisan",,,smooth,washed,pale yellow,"smokey , smooth, subtle",smokey,True,False,,,Lyburn Farm
+https://www.cheese.com/shorrocks-lancashire-bomb/,,semi-hard,,,"creamy, crumbly",,yellow,,,True,False,,,
+https://www.cheese.com/smokey-oregon-blue/,Blue,"semi-hard, blue-veined",,,"dense, firm",natural,pale yellow,"caramel, earthy, savory, sharp, sweet","milky, nutty, smokey",True,False,,,Rogue Creamery
+https://www.cheese.com/brutal-blue/,Blue,"semi-soft, artisan",,,creamy,,cream,"creamy, spicy, strong, woody",strong,True,False,,,Rogue Creamery
+https://www.cheese.com/brebis-dazure/,Blue,"semi-hard, artisan, blue-veined",,,soft,natural,pale yellow,sharp,aromatic,,,,,Fifth Town Artisan Cheese
+https://www.cheese.com/cilentano-ai-fichi/,,"semi-soft, artisan",,,creamy,natural,cream,"creamy, fruity","nutty, sweet",,,,,Casa Madaio
+https://www.cheese.com/asiago-dallevo/,,hard,34%,,compact,natural,pale yellow,savory,"pleasant, yeasty",False,False,"Asiago Aged, Asiago D’Allevo DOP Mitica®, Asiago Mezzano",,
+https://www.cheese.com/brebis-du-puyfaucon/,,"soft, artisan",,,smooth,natural,,sweet,grassy,False,False,,,
+https://www.cheese.com/muranda-blue/,Blue,"semi-hard, blue-veined",,,crumbly,natural,pale yellow,"salty, sharp, strong",strong,,,,,Muranda Cheese Company
+https://www.cheese.com/mobay/,,"semi-soft, artisan",,,"soft, supple",plastic,ivory,"earthy, sweet, tangy",goaty,True,False,,,Carr Valley Cheese Company
+https://www.cheese.com/stella-fontina/,,"semi-soft, artisan",,,"creamy, open",natural,pale yellow,"buttery, sweet","earthy, mild",True,False,,,Stella
+https://www.cheese.com/pied-de-vent/,Blue,"semi-soft, blue-veined",27%,,"creamy, smooth",washed,cream,"mushroomy, nutty",rich,False,False,,,Fromagerie du Pied-De-Vent
+https://www.cheese.com/mothais-a-la-feuille/,,"soft, artisan",,,"creamy, soft",,,"lemony, woody",mushroom,False,False,"Le Mothais sur Feuille, Mothais",,
+https://www.cheese.com/salsa-asiago/,,"hard, artisan",,,"compact, firm, open, smooth",natural,pale yellow,"creamy, garlicky, nutty, sharp, spicy","aromatic, nutty, pungent",True,False,,,Sartori
+https://www.cheese.com/little-qualicum-raclette/,Raclette,"semi-soft, artisan",,,"firm, supple",washed,ivory,"meaty, strong","pungent, stinky",,,,,Little Qualicum Cheeseworks
+https://www.cheese.com/lincolnshire-poacher/,Cheddar,hard,,,creamy,,yellow,"nutty, sweet",earthy,,,,,F.W.Read & Sons Ltd
+https://www.cheese.com/aged-cashew-hemp-seed-cheese/,,"firm, artisan",,,"firm, spreadable",,brown,"creamy, mild, nutty, spicy","nutty, rich",True,False,,,Dr. Cow Tree Nut Cheese
+https://www.cheese.com/pourly/,,"soft, artisan",45%,,smooth,natural,pale yellow,sweet,fresh,False,False,,,
+https://www.cheese.com/cathelain/,,soft,,,smooth,,,sour,,False,False,,,
+https://www.cheese.com/bavarian-bergkase/,,"hard, artisan",62%,,"crumbly, firm, open",natural,pale yellow,"full-flavored, nutty, spicy","aromatic, rich",False,False,"Allgäuer Bergkäse DOP, Allgauer Bergkase",Bawarii Bergkäse,
+https://www.cheese.com/blissful-toppings/,Parmesan,soft,,,crumbly,artificial,yellow,"savory, sharp",,True,False,"Lactose Free Parmesan Grated Topping, Dairy Free Parmesan Grated Topping",,GO Veggie!
+https://www.cheese.com/perlagrigia-sotto-cenere/,,soft,,,compact,ash coated,pale yellow,"sharp, spicy","aromatic, smokey",False,False,,,La Casearia Carpenedo S.r.l.
+https://www.cheese.com/string/,,semi-hard,,,"chewy, firm, stringy",,,,,,,,,
+https://www.cheese.com/prairie-tomme/,Tomme,"semi-hard, artisan",,,"firm, smooth",natural,cream,"buttery, nutty",,False,False,,,Green Dirt Farm
+https://www.cheese.com/stella-feta/,Feta,"firm, artisan",,,"crumbly, firm",,white,tangy,fresh,True,False,,,
+https://www.cheese.com/selles-sur-cher/,,soft,,,firm,ash coated,,tangy,"lactic, nutty",,,,,
+https://www.cheese.com/briquette-du-forez/,Brie,"soft, soft-ripened",,,creamy,natural,white,smooth,"goaty, pleasant",False,False,,,
+https://www.cheese.com/marisa/,,"semi-soft, artisan",,,"dense, firm",,white,"mellow, sweet",pleasant,True,False,,,Carr Valley Cheese Company
+https://www.cheese.com/barden-blue/,Blue,"semi-hard, artisan, blue-veined",,,"buttery, dense, open",natural,yellow,"mild, nutty, spicy, tangy","barnyardy, herbal",False,False,,,Consider Bardwell Farm
+https://www.cheese.com/pecorino-di-vigna/,Pecorino,"semi-soft, artisan",,,"smooth, soft",leaf wrapped,straw,"herbaceous, smooth","aromatic, herbal",,,,,Romaniae Terrae
+https://www.cheese.com/saint-andre/,Brie,"soft, soft-ripened",,,"creamy, dense",bloomy,ivory,"buttery, tangy",rich,,,,"St. Andre, Saint Andre, St André",
+https://www.cheese.com/pepato/,,"semi-hard, artisan",,,"creamy, flaky",natural,straw,"salty, spicy",spicy,,,Pecorino Pepato,,
+https://www.cheese.com/burgos/,,fresh soft,46-60%,,creamy,rindless,white,"mild, milky",fresh,False,False,"Queso de Burgos, Fromage Burgos, Burgos käse",,
+https://www.cheese.com/latteria-navel/,,"hard, soft-ripened",,,brittle,natural,straw,full-flavored,aromatic,,,,,
+https://www.cheese.com/chhurpi/,Cottage,"soft, hard, artisan",,,dense,natural,pale yellow,tangy,,,,"Durkha, Chhur singba, Sherkam, Chhur mingba",Churpi,
+https://www.cheese.com/amarelo-de-beira-baixa/,,"semi-firm, artisan",45-60%,,,,yellow,acidic,,False,False,"Amarelo da Beira Baixa Cheese (DOP), Queijo amarelo da Beira Baixa",,
+https://www.cheese.com/cap-cressy/,,"semi-hard, artisan, smear-ripened",,,"compact, dense",washed,pale yellow,"mellow, savory, sweet",lactic,,,,,Fifth Town Artisan Cheese
+https://www.cheese.com/montasio/,,semi-firm,,,creamy,,,"mild, smooth","aromatic, pleasant",False,False,"Montasio Mitica® DOP, Montasio Mitica DOP",,
+https://www.cheese.com/cuor-di-burrata/,,soft,,,"creamy, smooth",,white,"buttery, milky, sweet","fresh, herbal, nutty",False,False,,,Casa Madaio
+https://www.cheese.com/basajo/,Blue,"semi-soft, blue-veined",,,creamy,,,sweet,fruity,False,False,,,
