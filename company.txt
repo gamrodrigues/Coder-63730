@@ -1,0 +1,16 @@
+Company,Market Value
+Atari,4160
+Bandai,913
+Coleco,767
+Magnavox/Philips,693
+Mattel,548
+Micro Genius,689
+Microsoft,3154
+NEC,387
+NEC/Hudson Soft[note 6],547
+Nintendo,22615
+Nokia,637
+Philips,899
+Sega,10391
+Sony,7177
+Tectoy,2538
