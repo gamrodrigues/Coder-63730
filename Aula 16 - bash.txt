@@ -1,0 +1,51 @@
+Passo extra 1:
+Vá para o site oficial do Python: python.org (https://www.python.org/downloads/).
+Baixe a versão mais recente do Python.
+Durante a instalação, certifique-se de marcar a opção "Add Python to PATH". Isso garante que o Python esteja acessível a partir do terminal.
+Desabilite a restrição de uso do python ao final da instalação.
+
+Passo extra2:
+Alterar a Política de Execução do PowerShell
+Abrir o PowerShell como Administrador.
+Verificar a Política de Execução Atual:
+-Digite o seguinte comando para ver qual é a política de execução atual: Get-ExecutionPolicy
+Alterar a Política de Execução:Para permitir a execução de scripts, você pode alterar a política de execução para RemoteSigned, que permite a execução de scripts locais sem assinatura e exige assinatura para scripts baixados da internet.
+-Digite o seguinte comando no PowerShell: Set-ExecutionPolicy RemoteSigned
+E confirme.
+
+#Criando o Ambiente Virtual
+Abra o VSCode.
+Abra o terminal no VSCode:
+-Você pode abrir o terminal pressionando Ctrl + ` (crase) ou indo em Terminal > New Terminal no menu superior.
+Crie o ambiente virtual:
+-Execute o comando abaixo no terminal: python -m venv nome_do_ambiente (Substitua nome_do_ambiente pelo nome do seu ambiente virtual)
+Caso não funcione, execute o Passo extra 1
+
+#Ativando o Ambiente Virtual pelo bash
+No Windows: nome_do_ambiente\Scripts\activate (Substitua nome_do_ambiente pelo nome do seu ambiente virtual)
+No macOS ou Linux: source nome_do_ambiente/bin/activate (Substitua nome_do_ambiente pelo nome do seu ambiente virtual)
+
+#Ativando o Ambiente Virtual pelas funcionalidaes do VSCode
+Selecione o interpretador Python:
+-Pressione Ctrl + Shift + P para abrir a Paleta de Comandos.
+-Digite e selecione Python: Select Interpreter.
+-Escolha o interpretador do ambiente virtual que você acabou de criar. Ele estará listado com o caminho completo para o diretório Scripts (no Windows) ou bin (no macOS/Linux) do ambiente virtual.
+Caso não funcione, execute o Passo extra 2
+
+#Upgrade o pip pelo bash
+python.exe -m pip install --upgrade pip
+
+#Listando bibliotecas pelo bash
+python.exe -m pip list
+
+
+
+
+
+
+
+#Remover e Recriar o Ambiente Virtual
+Se você quiser uma limpeza completa do ambiente virtual, pode removê-lo completamente e criá-lo novamente:
+-Desative o Ambiente Virtual: deactivate
+-Exclua a Pasta do Ambiente Virtual: Remove-Item -Recurse -Force nome_do_ambiente (Substitua nome_do_ambiente pelo nome do seu antigo ambiente virtual)
+-Recrie o Ambiente Virtual: python -m venv nome_do_ambiente (Substitua nome_do_ambiente pelo nome do seu novo ambiente virtual)

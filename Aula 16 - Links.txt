@@ -1,0 +1,8 @@
+O que é Docker? [aula]
+https://www.youtube.com/shorts/UjhXKoH5aqk
+
+O mínimo que você precisa saber sobre Docker!
+https://www.youtube.com/watch?v=ntbpIfS44Gw&pp=ygUTbyBxdWUgw6kgZG9ja2VyIGh1Yg%3D%3D
+
+Exercício Mão na massa
+https://colab.research.google.com/drive/1rzbsZx74B-PzzdWqpxPFKGIqciDj2TVY?usp=sharing
