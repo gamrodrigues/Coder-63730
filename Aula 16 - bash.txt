@@ -4,7 +4,7 @@ Baixe a versão mais recente do Python.
 Durante a instalação, certifique-se de marcar a opção "Add Python to PATH". Isso garante que o Python esteja acessível a partir do terminal.
 Desabilite a restrição de uso do python ao final da instalação.
 
-Passo extra2:
+Passo extra 2:
 Alterar a Política de Execução do PowerShell
 Abrir o PowerShell como Administrador.
 Verificar a Política de Execução Atual:
